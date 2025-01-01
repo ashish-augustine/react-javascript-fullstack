@@ -36,6 +36,7 @@ const removeFromCart = async (req, res) => {
 
 }
 
+
 // get user cart
 const getCart = async (req, res) => {
    try {
