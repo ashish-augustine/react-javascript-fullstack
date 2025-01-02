@@ -1,4 +1,4 @@
- # This is a Full Stack Food Delivery Website created using React JS, MongoDB, Express, Node JS & Stripe
+ # Full Stack Food Delivery Website created using React JS, MongoDB, Express, Node JS & Stripe
 
  # Screenshots
  
