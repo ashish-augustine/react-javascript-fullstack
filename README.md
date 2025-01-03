@@ -2,7 +2,7 @@
 
  # Screenshots
  
-![Screenshot 2025-01-01 at 10 49 31 AM](https://github.com/user-attachments/assets/fcfc64aa-6b45-44ab-9e0f-cab4d7b15bd9)
+![Screenshot 2025-01-01 at 10 49 31 AM](https://github.com/user-attachments/assets/1353768b-1673-4872-9bc8-99f24e3b9168)
 
 ![Screenshot 2025-01-01 at 10 49 48 AM](https://github.com/user-attachments/assets/ed2aa41b-2a1b-4a2a-b386-0a806f043782)
 
