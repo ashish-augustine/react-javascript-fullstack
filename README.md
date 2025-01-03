@@ -1,5 +1,5 @@
  # Full Stack Food Delivery Website created using React JS, MongoDB, Express, Node JS & Stripe
-
+This app enables the user to order food online and pay using Debit / Credit cards via Stripe payments. 
  # Screenshots
  
 ![Screenshot 2025-01-01 at 10 49 31 AM](https://github.com/user-attachments/assets/1353768b-1673-4872-9bc8-99f24e3b9168)
