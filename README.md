@@ -1,4 +1,6 @@
  # Full Stack - MERN - Ecommerce
+
+ ## Techstack : React / JavaScript / Node JS / MongoDB / Express / Stripe  
  
 This is a Full Stack App created using React JS, JavaScript, MongoDB, Express, Node JS & Stripe for Online Food Delivery 
  
