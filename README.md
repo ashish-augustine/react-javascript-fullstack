@@ -1,4 +1,6 @@
- # This is a Full Stack App created using React JS, JavaScript, MongoDB, Express, Node JS & Stripe for Online Food Delivery 
+ # Full Stack - MERN - Ecommerce
+ 
+This is a Full Stack App created using React JS, JavaScript, MongoDB, Express, Node JS & Stripe for Online Food Delivery 
  
 This app enables the user to order food online and pay using Debit / Credit cards via Stripe payments. 
  # Screenshots
