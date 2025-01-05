@@ -1,4 +1,4 @@
- # Full Stack Ecommerce application built using  MERN Stack
+ # Ecommerce application built using  MERN Stack - Fullstack
 
  ## Techstack : React / JavaScript / Node JS / MongoDB / Express / Stripe  
  
