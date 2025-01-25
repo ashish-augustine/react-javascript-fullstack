@@ -1,5 +1,4 @@
- # Ecommerce application built using  MERN Stack (FullStack)
-
+ # Ecommerce application built using  MERN Stack 
  
  
 
